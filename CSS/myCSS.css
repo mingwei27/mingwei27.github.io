@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background: url(/images/myheader.png) repeat-x;
+    background: url(/images/myHeaderBG.png) repeat-x;
 }
 
 #myHeader {
@@ -19,7 +19,7 @@ header {
 	height: 120px;
 	position: relative;
 	margin: 0 auto;
-	background: url(/images/myHeader.png) no-repeat
+	background: url(/images/myLogoBG.png) no-repeat
 }
 
 a.sitetitle {
@@ -71,4 +71,46 @@ a.sitetitle {
     width: 1015px;
     margin: 0 auto;
     padding: 5px 10px 0;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+#myContent {
+	width: 700px;
+}
+
+#mySidebar {
+	width: 300px;
+}
+
+.h30 {
+	height: 30px;
+}
+
+.clear {
+	clear: both;
+}
+
+footer {
+    clear: both;
+    background: #fff;
+    width: 100%;
+}
+
+#myFooter {
+    width: 980px;
+    margin: 0 auto;
+    padding: 40px 10px;
+}
+
+.col_4 {
+    width: 180px;
+    float: left;
+    margin: 0 30px;
 }
