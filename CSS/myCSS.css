@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background: url(/images/myHeaderBG.png) repeat-x;
+    background: url(/images/nn.png) repeat-x;
 }
 
 #myHeader {
@@ -19,7 +19,7 @@ header {
 	height: 120px;
 	position: relative;
 	margin: 0 auto;
-	background: url(/images/myLogoBG.png) no-repeat
+	background: url(/images/mm.png) no-repeat
 }
 
 a.sitetitle {
